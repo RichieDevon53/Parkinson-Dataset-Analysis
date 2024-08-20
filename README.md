@@ -1,4 +1,4 @@
-## Parkinson's Disease Analysis in Elderly Patients
+# Parkinson's Disease Analysis in Elderly Patients
 ### Introduction
 
 This project aims to analyze the increasing number of Parkinson's disease diagnoses among elderly patients in Hospital A. The project utilizes data visualization, descriptive statistics, and inferential statistics to identify key factors influencing the development of Parkinson's disease. The ultimate objective is to reduce the incidence of Parkinson's among elderly patients by 10% within 1-2 years through targeted preventive efforts.
